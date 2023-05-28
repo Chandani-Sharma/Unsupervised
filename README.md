@@ -1,4 +1,4 @@
-#Netflix Movies and TV Shows: Clustering
+# Netflix Movies and TV Shows: Clustering
 
 Project Summary :
 
@@ -11,13 +11,13 @@ Project Summary :
 
 Challenges:
 
-Exploratory Data Analysis: Analyzing a large dataset with multiple attributes and textual features to gain insights and identify patterns effectively.
+- Exploratory Data Analysis: Analyzing a large dataset with multiple attributes and textual features to gain insights and identify patterns effectively.
 
-Content Availability by Country: Understanding the types of content available in different countries and detecting variations and preferences.
+- Content Availability by Country: Understanding the types of content available in different countries and detecting variations and preferences.
 
-Focus on TV Shows: Evaluating whether Netflix has shifted its focus towards TV shows and exploring trends in release years and the relative numbers of TV shows and movies.
+- Focus on TV Shows: Evaluating whether Netflix has shifted its focus towards TV shows and exploring trends in release years and the relative numbers of TV shows and movies.
 
-Clustering Similar Content: Developing a clustering approach to group similar movies and TV shows based on titles, directors, cast, and descriptions.
+- Clustering Similar Content: Developing a clustering approach to group similar movies and TV shows based on titles, directors, cast, and descriptions.
 
 Deliverables:
 
